@@ -6,7 +6,7 @@ Our projects are designed to improve your productivity in a simple way.
 ## Our Projects
 
 * [tgoeswall](https://github.com/TinyToolSH/tgoeswall) - make Geostationary Operational Environmental Satellite images, your wallpaper.
-* [tmenu](https://github.com/TinyToolSH/tmenu) - A simple dmenu wrapper to create menus.
+* [tlaunch](https://github.com/TinyToolSH/tlaunch) - A simple dmenu wrapper to create menus.
 * [tnotes](https://github.com/TinyToolSH/tnotes) - A simple dmenu wrapper to create and access your Markdown notes.
 * [tpomodoro](https://github.com/TinyToolSH/tpomodoro) - a simple script to manage your time using the pomodoro technique.
 * [tprogbar](https://github.com/TinyToolSH/tprogbar) - a simple commandline tool to help you make your our ASCII progress bar.
