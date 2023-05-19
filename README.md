@@ -5,16 +5,16 @@ Our projects are designed to improve your productivity in a simple way.
 
 ## Our Projects
 
-* [tgoeswall](/projects/tgoeswall) - make Geostationary Operational Environmental Satellite images, your wallpaper.
-* [tmenu](/projects/tmenu) - A simple dmenu wrapper to create menus.
-* [tnotes](/projects/tnotes) - A simple dmenu wrapper to create and access your Markdown notes.
-* [tpomodoro](/projects/tpomodoro) - a simple script to manage your time using the pomodoro technique.
-* [tprogbar](/projects/tprogbar) - a simple commandline tool to help you make your our ASCII progress bar.
-* [tsearch](/projects/tsearch) - A simple tool to request any search the way you want.
-* [ttodo](/projects/ttodo) - A simple dmenu wrapper to create and access your todo list.
-* [tyaml](/projects/tyaml) - A simple script to parse a yaml file.
-* [tmdpres](/projects/tmdpres) - A tiny markdown presentation generator.
-* [tbm](/projects/tbm) - A tiny tool to create url bookmarks in plain texts.
+* [tgoeswall](https://github.com/TinyToolSH/tgoeswall) - make Geostationary Operational Environmental Satellite images, your wallpaper.
+* [tmenu](https://github.com/TinyToolSH/tmenu) - A simple dmenu wrapper to create menus.
+* [tnotes](https://github.com/TinyToolSH/tnotes) - A simple dmenu wrapper to create and access your Markdown notes.
+* [tpomodoro](https://github.com/TinyToolSH/tpomodoro) - a simple script to manage your time using the pomodoro technique.
+* [tprogbar](https://github.com/TinyToolSH/tprogbar) - a simple commandline tool to help you make your our ASCII progress bar.
+* [tsearch](https://github.com/TinyToolSH/tsearch) - A simple tool to request any search the way you want.
+* [ttodo](https://github.com/TinyToolSH/ttodo) - A simple dmenu wrapper to create and access your todo list.
+* [tyaml](https://github.com/TinyToolSH/tyaml) - A simple script to parse a yaml file.
+* [tmdpres](https://github.com/TinyToolSH/tmdpres) - A tiny markdown presentation generator.
+* [tbm](https://github.com/TinyToolSH/tbm) - A tiny tool to create url bookmarks in plain texts.
 
 ## Installation
 
